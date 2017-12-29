@@ -5,3 +5,5 @@ not winter lasts forever,no spring skips it's turn
 
 Git is distributed version system
 Git is distributed version system 
+
+create a new branch is simple
